@@ -55,5 +55,5 @@ section#redes-sociais > a >  img:hover{
     border: 2px solid rgba(255, 255, 255, 0.608);
     transform: translate(-3px, -3px); /* menos 3 px para esquerda e para cima*/
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.605);
-    transition: tranform 0.5s, border: 1s; /*movimentação*/
+    transition: tranform 0.5s; /*movimentação*/
 }
